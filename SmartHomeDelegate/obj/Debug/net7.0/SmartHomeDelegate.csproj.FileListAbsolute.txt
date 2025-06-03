@@ -1,0 +1,15 @@
+/Users/harshadpatil/Documents/study/Practice/Delegates/SmartHomeDelegate/bin/Debug/net7.0/SmartHomeDelegate
+/Users/harshadpatil/Documents/study/Practice/Delegates/SmartHomeDelegate/bin/Debug/net7.0/SmartHomeDelegate.deps.json
+/Users/harshadpatil/Documents/study/Practice/Delegates/SmartHomeDelegate/bin/Debug/net7.0/SmartHomeDelegate.runtimeconfig.json
+/Users/harshadpatil/Documents/study/Practice/Delegates/SmartHomeDelegate/bin/Debug/net7.0/SmartHomeDelegate.dll
+/Users/harshadpatil/Documents/study/Practice/Delegates/SmartHomeDelegate/bin/Debug/net7.0/SmartHomeDelegate.pdb
+/Users/harshadpatil/Documents/study/Practice/Delegates/SmartHomeDelegate/obj/Debug/net7.0/SmartHomeDelegate.csproj.AssemblyReference.cache
+/Users/harshadpatil/Documents/study/Practice/Delegates/SmartHomeDelegate/obj/Debug/net7.0/SmartHomeDelegate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/harshadpatil/Documents/study/Practice/Delegates/SmartHomeDelegate/obj/Debug/net7.0/SmartHomeDelegate.AssemblyInfoInputs.cache
+/Users/harshadpatil/Documents/study/Practice/Delegates/SmartHomeDelegate/obj/Debug/net7.0/SmartHomeDelegate.AssemblyInfo.cs
+/Users/harshadpatil/Documents/study/Practice/Delegates/SmartHomeDelegate/obj/Debug/net7.0/SmartHomeDelegate.csproj.CoreCompileInputs.cache
+/Users/harshadpatil/Documents/study/Practice/Delegates/SmartHomeDelegate/obj/Debug/net7.0/SmartHomeDelegate.dll
+/Users/harshadpatil/Documents/study/Practice/Delegates/SmartHomeDelegate/obj/Debug/net7.0/refint/SmartHomeDelegate.dll
+/Users/harshadpatil/Documents/study/Practice/Delegates/SmartHomeDelegate/obj/Debug/net7.0/SmartHomeDelegate.pdb
+/Users/harshadpatil/Documents/study/Practice/Delegates/SmartHomeDelegate/obj/Debug/net7.0/SmartHomeDelegate.genruntimeconfig.cache
+/Users/harshadpatil/Documents/study/Practice/Delegates/SmartHomeDelegate/obj/Debug/net7.0/ref/SmartHomeDelegate.dll

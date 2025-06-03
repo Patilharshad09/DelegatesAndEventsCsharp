@@ -1,0 +1,1 @@
+public delegate void SmartHomeEventHandler<T>(object sender, T e) where T : SmartHomeEventArgs;

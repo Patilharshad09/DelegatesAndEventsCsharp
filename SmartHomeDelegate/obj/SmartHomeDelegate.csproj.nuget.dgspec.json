@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/harshadpatil/Documents/study/Practice/Delegates/SmartHomeDelegate/SmartHomeDelegate.csproj": {}
+  },
+  "projects": {
+    "/Users/harshadpatil/Documents/study/Practice/Delegates/SmartHomeDelegate/SmartHomeDelegate.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/harshadpatil/Documents/study/Practice/Delegates/SmartHomeDelegate/SmartHomeDelegate.csproj",
+        "projectName": "SmartHomeDelegate",
+        "projectPath": "/Users/harshadpatil/Documents/study/Practice/Delegates/SmartHomeDelegate/SmartHomeDelegate.csproj",
+        "packagesPath": "/Users/harshadpatil/.nuget/packages/",
+        "outputPath": "/Users/harshadpatil/Documents/study/Practice/Delegates/SmartHomeDelegate/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/harshadpatil/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.410/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
